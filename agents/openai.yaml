@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dog Woodcut Zine"
+  short_description: "根据照片保留单只或多只宠物身份，生成留白木刻 zine 成品"
+  default_prompt: "Use $dog-woodcut-zine to turn my pet photo into exactly one calm woodcut zine illustration, preserving every requested dog's identity and extracting only sparse environmental accents."
